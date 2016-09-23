@@ -21,7 +21,7 @@ body {
 }
 
 /* HTML5 display definitions
-   ========================================================================== */
+   =============== */
 
 /**
  * Correct `block` display not defined for any HTML5 element in IE 8/9.
@@ -427,6 +427,7 @@ th {
 }
 
 /* LAYOUT STYLES */
+/*what color is body-bg.jpg in a commentP/
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -453,8 +454,9 @@ header {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
+  /*which fonts from the font-family is displaying on the website*/
 }
-
+/*add your name to your webpage along with your email address*/
 header h1 {
   width: 540px;
   margin-top: 0;
